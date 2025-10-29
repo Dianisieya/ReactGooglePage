@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Footer() {
-  return(
+  return (
     <footer className="footer">
       <div className="footer-top">
         <span>Беларусь</span>
